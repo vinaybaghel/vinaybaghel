@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinaybaghel
-- 👀 I’m interested in Web Development And Cyber Security.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Ethical Hacking & CyberSecurity.
 - 📫 How to reach me https://www.instagram.com/vinay_b22/
 - ✉️ Gmail - vinaybaghel2000@gmail.com
 
